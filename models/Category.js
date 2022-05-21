@@ -1,4 +1,5 @@
 const { Model, DataTypes } = require('sequelize');
+const Product = require('./Product');
 
 const sequelize = require('../config/connection.js');
 
@@ -19,5 +20,7 @@ Category.init(
     modelName: 'category',
   }
 );
+
+Category.hasMany(Product, { foreignKey: 'category_id' })
 
 module.exports = Category;
