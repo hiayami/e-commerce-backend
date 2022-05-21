@@ -22,5 +22,8 @@ Category.init(
 );
 
 Category.hasMany(Product, { foreignKey: 'category_id' })
-
+Product.hasOne(Category, {
+  sourceKey: 'category_id',
+  foreignKey: 'id'
+})
 module.exports = Category;
