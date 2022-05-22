@@ -39,8 +39,7 @@ Application is used from the command line
 
 ![e-commerce](https://user-images.githubusercontent.com/98536530/169675637-99130e23-5ae0-4242-8a85-2d92276f2b7e.gif)
 
-Link to full video of application usage here: [
-](https://drive.google.com/file/d/1mviweqJp0yzMP3KoY0FfjNUlKMf8aMtS/view?usp=sharing)
+Link to full video of application usage here: [Full video of application](https://drive.google.com/file/d/1mviweqJp0yzMP3KoY0FfjNUlKMf8aMtS/view?usp=sharing)
 
 ## License
 Read more about MIT License here: [MIT License](https://opensource.org/licenses/MIT)
