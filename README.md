@@ -37,7 +37,7 @@ Clone the repo
 ## Usage
 Application is used from the command line
 
-![employee-tracker](https://user-images.githubusercontent.com/98536530/169675571-168d4a19-1ecc-467d-b6ac-ab19a5593376.gif)
+![e-commerce](https://user-images.githubusercontent.com/98536530/169675637-99130e23-5ae0-4242-8a85-2d92276f2b7e.gif)
 
 Link to full video of application usage here: [
 ](https://drive.google.com/file/d/1mviweqJp0yzMP3KoY0FfjNUlKMf8aMtS/view?usp=sharing)
